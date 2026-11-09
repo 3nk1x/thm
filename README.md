@@ -11,7 +11,7 @@ educational and defensive-security learning only.
 ## Structure
 
 - `notes/ai-security/` — the AI Security learning path, one how-to per room (01–18). Flags and answer keys are omitted.
-- `notes/` — room write-ups, one Markdown file per room.
+- `notes/thm/` — TryHackMe room write-ups (123 rooms), one Markdown file per room. Flags, IPs, secrets, and answers are redacted.
 
 ## Conventions
 

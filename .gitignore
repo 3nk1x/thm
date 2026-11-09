@@ -1,0 +1,15 @@
+# Never commit secrets or key material
+*.pem
+*.key
+*.pfx
+*.p12
+*.ppk
+id_rsa*
+id_ed25519*
+*.ccache
+*.kirbi
+*.hash
+*.ntds
+.env
+.env.*
+*.pcap
