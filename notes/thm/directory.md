@@ -33,7 +33,7 @@
 4. **Crack**: `<redacted-pw>` (rockyou).
 5. **WinRM foothold**: evil-winrm to `5985` as `larry.doe` over NTLM.
 6. **Loot + taunt**: `whoami /all`, dump `SAM`/`SYSTEM`/`SECURITY` hives with `reg save`, then drop the
-   note on the Desktop containing the flag. `Ya_G0t_R0aSt3d` = pun on AS-REP Roasting.
+   note on the Desktop containing the flag *(its leetspeak form is a pun on AS-REP Roasting — find it yourself)*.
 
 ## Q1 - initial open ports (the "initially" trap)
 
