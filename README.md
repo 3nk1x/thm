@@ -10,6 +10,7 @@ educational and defensive-security learning only.
 
 ## Structure
 
+- `notes/ai-security/` — the AI Security learning path, one how-to per room (01–18). Flags and answer keys are omitted.
 - `notes/` — room write-ups, one Markdown file per room.
 
 ## Conventions
