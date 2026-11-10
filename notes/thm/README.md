@@ -36,6 +36,7 @@ Study notes and walkthroughs for TryHackMe rooms, one Markdown file per room: th
 
 ## Web & API security
 
+- [Advanced server side attacks ssrf](advanced-server-side-attacks-ssrf.md)
 - [Advanced sql injection](advanced-sql-injection.md)
 - [Api pentesting](api-pentesting.md)
 - [Broken authentication](broken-authentication.md)
@@ -169,4 +170,4 @@ Study notes and walkthroughs for TryHackMe rooms, one Markdown file per room: th
 
 ---
 
-_123 rooms._
+_124 rooms._
