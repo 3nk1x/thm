@@ -43,6 +43,7 @@ Study notes and walkthroughs for TryHackMe rooms, one Markdown file per room: th
 - [Command injection](command-injection.md)
 - [Content discovery](content-discovery.md)
 - [Csrf introduction](csrf-introduction.md)
+- [File inclusion path traversal](file-inclusion-path-traversal.md)
 - [File inclusion](file-inclusion.md)
 - [Idor](idor.md)
 - [Insecure deserialisation](insecure-deserialisation.md)
@@ -170,4 +171,4 @@ Study notes and walkthroughs for TryHackMe rooms, one Markdown file per room: th
 
 ---
 
-_124 rooms._
+_125 rooms._
